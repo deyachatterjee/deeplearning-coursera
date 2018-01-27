@@ -1,0 +1,4 @@
+Course 2:
+Week 1 Programming Assignment:
+Week 2 Programming Assignment:
+Week 3 Programming Assignment:  Tensorflow
